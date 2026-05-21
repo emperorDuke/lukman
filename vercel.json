@@ -1,0 +1,5 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
+  "ignoreCommand": "echo 'No files to ignore'"
+}
